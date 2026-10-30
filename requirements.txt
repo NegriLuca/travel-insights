@@ -1,0 +1,14 @@
+# Core analysis + build
+pandas>=2.0
+numpy>=1.24
+
+# Notebooks / scrapers
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+trafilatura>=1.6
+selenium>=4.15
+textacy>=0.13
+
+# Tests
+pytest>=8.0
